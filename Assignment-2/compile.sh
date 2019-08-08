@@ -1,0 +1,1 @@
+wget "https://owncloud.iitd.ac.in/nextcloud/index.php/s/YxL8Ey4wd3AnZ3b/download" -O model.pt

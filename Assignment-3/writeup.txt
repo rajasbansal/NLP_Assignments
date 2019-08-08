@@ -1,0 +1,8 @@
+Atishya
+
+Libraries used:
+sklearn_crfsuite
+sklearn
+sys
+pickle
+time
